@@ -1,0 +1,41 @@
+  .head {
+    text-align: center;
+    font-weight: 60px;
+    font-size: 30px;
+    position: relative;
+  }
+
+  .boldtext {
+    font-weight: 600;
+    font-size: 20px;
+  }
+
+  .italic-text {
+    font-style: italic;
+    font-size: 20px;
+  }
+
+  .underline {
+    text-decoration: underline;
+    font-size: 20px;
+  }
+
+  .line-through {
+    text-decoration: line-through solid;
+    font-size: 20px;
+  }
+  .overline{
+    text-decoration: overline;
+    font-size: 20px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-align: center;
+    color: rgba(0, 0, 255, 0.887);
+    background-color: rgba(127, 255, 212, 0.86);
+    border: 1px solid blue;
+  }
